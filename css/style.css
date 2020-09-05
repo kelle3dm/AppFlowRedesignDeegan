@@ -1,0 +1,31 @@
+
+
+
+/* style for header 1*/
+
+h1 {
+  box-sizing: border-box;
+  font-family: Times New Roman, serif;
+}
+
+
+
+/*Style of the body content*/
+body{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* Style the content */
+content {
+  background-color: #ddd;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+footer {
+  background-color: #f1f1f1;
+  padding: 10px;
+}
